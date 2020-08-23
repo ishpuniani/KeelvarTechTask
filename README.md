@@ -1,4 +1,4 @@
-# KeelvarTechTest
+# KeelvarTechTask
 Submission for Keelvar tech task
 
 ## Problem Statement
