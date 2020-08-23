@@ -1,5 +1,5 @@
 # KeelvarTechTest
-Submission for Keelvar tech test
+Submission for Keelvar tech task
 
 ## Problem Statement
 Given a list of integers, check if the sum of any two integers in the list is not contained in the list.
